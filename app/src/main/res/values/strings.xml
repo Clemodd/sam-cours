@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">Sam project</string>
-    <string name="pas_bien">C\'est bien, mais ça sera pas bien dans X bonbons.</string>
-    <string name="bien">C\'est bien mais il ne faut pas en abuser</string>
+    <string name="pas_bien">C\'est pas bien, c\'est mauvais pour la santé</string>
+    <string name="bien">C\'est bien, mais ça sera pas bien dans %d bonbons.</string>
+    <string name="mes_bonbons">J\'ai %d bonbons</string>
 </resources>
